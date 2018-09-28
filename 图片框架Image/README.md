@@ -1,6 +1,6 @@
 # AndroidLibs == 图片 Image
 
-包含：图片加载框架ImageLoader、自定义图片、裁剪Crop、形状Shape、人脸识别……
+包含：图片加载框架ImageLoader、自定义图片、裁剪Crop、形状Shape、人脸识别、相机……
 
 [<==返回首页==](https://github.com/XXApple/AndroidLibs)
 
@@ -106,7 +106,7 @@ A simple imageview which allows you to create diagonal cut views easily
 
 ---
 
-**PaletteImageView: https://github.com/DingMouRen/PaletteImageView-
+**PaletteImageView: https://github.com/DingMouRen/PaletteImageView
 
 懂得智能配色的ImageView,还能给自己设置多彩的阴影
 
@@ -119,6 +119,14 @@ A simple imageview which allows you to create diagonal cut views easily
 头像加载进度
 
 <img src="https://github.com/qintong91/InsLoadingAnimation/raw/master/screenshots/demo.gif" width="270"/>
+
+---
+
+**AndroidWM: https://github.com/huangyz0918/AndroidWM
+
+轻量级安卓水印框架，支持隐形数字水印
+
+<img src="https://camo.githubusercontent.com/ee10fde843f5050abbb3424ad9470d17150f1102/68747470733a2f2f692e6c6f6c692e6e65742f323031382f30392f30352f356238663565623161376662302e706e67" width="400"/> <img src="https://camo.githubusercontent.com/42a674fdf9e49c7e774c205063427e1b863a2f90/68747470733a2f2f692e6c6f6c692e6e65742f323031382f30392f30352f356238663565623234643066642e706e67" width="400"/>
 
 ---
 
@@ -199,6 +207,14 @@ Clickable ImageView that expands to full screen and is dismissible by swiping th
 二代身份证信息识别
 
 <img src = "https://camo.githubusercontent.com/84165b0a30c3bfa248518a1f3715433b9d0bb942/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313530393037313635313233343033" width = "320"/>
+
+---
+
+**ProCamera**: https://github.com/18Gray/ProCamera
+
+ProCamera是一款基于Camera2 API的相机，实现了相机的常用功能，力求不断挖掘Camera2的巨大潜力，锻造一款在功能和设计上完美的相机产品
+
+<img src = "https://github.com/18Gray/ProCamera/raw/master/screenshot/camera2.jpg" width = "320"/> <img src = "https://github.com/18Gray/ProCamera/raw/master/screenshot/modeselect.jpg" width = "320"/>
 
 ---
 
