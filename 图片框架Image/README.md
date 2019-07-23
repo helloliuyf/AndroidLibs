@@ -22,6 +22,28 @@ Android OpenGL ES 2.0/3.0 Engine
 
 ---
 
+**sketch: https://github.com/panpf/sketch
+
+Sketch 是 Android 上一个强大且全面的图片加载器，支持 GIF，手势缩放以及分块显示超大图片
+
+---
+
+**Diooto: https://github.com/moyokoo/Diooto
+
+微博,微信图库效果,微信视频拖放效果,适配状态栏 、屏幕旋转 、全屏 、长图、GIF、视频
+
+<img src="https://github.com/moyokoo/Media/raw/master/diooto3.gif?raw=true" width="320"/> <img src="https://github.com/moyokoo/Media/raw/master/diooto1.gif?raw=true" width="320"/>
+
+---
+
+**android-face-detector: https://github.com/husaynhakeem/android-face-detector
+
+实时人脸检测
+
+<img src="https://github.com/husaynhakeem/android-face-detector/blob/master/app/art/demo.jpg" width="400"/>
+
+---
+
 **AndroidFaceDetection: https://github.com/lchad/AndroidFaceDetection
 
 Android 平台进行人脸检测的几种方案
@@ -524,6 +546,14 @@ An implementation of High Pass Skin Smoothing on Android Bitmap 美颜
 
 ---
 
+**LargeImage**: https://github.com/LuckyJayce/LargeImage
+
+Android 加载大图 可以高清显示10000*10000像素的图片，轻松实现微博长图功能
+
+<img src = "https://github.com/LuckyJayce/LargeImage/blob/master/raw/demo.gif" width = "320"/>
+
+---
+
 **BigImageViewer**: https://github.com/Piasy/BigImageViewer
 
 大图查看加载库，支持拖动和缩放，利用 fresco 加载，超级方便，但是内存占用超级低，一点也不卡
@@ -810,6 +840,14 @@ Luban(鲁班)——可能是最接近微信朋友圈的图片压缩算法
 
 ---
 
+**zBarLibary**: https://github.com/bertsir/zBarLibary
+
+zbar扫描快，zxing可以生成和识别本地，So,我就把他们结合在了一起
+
+<img src="https://camo.githubusercontent.com/9eec49996c71fef00e117356beb8ee91bc2ed7c8/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f333032393032302d623030343430373562323162326637632e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f333633" width="320" /> <img src="https://camo.githubusercontent.com/d6372d677c6dae51ae7d8228b797223e0ff2a35f/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f333032393032302d633763373962366166346461363936302e6a70673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f333630" width="320" />
+
+---
+
 **MVBarcodeReader**: https://github.com/iamMehedi/MVBarcodeReader
 
 条码识别
@@ -929,6 +967,14 @@ Android 色彩渐进 ImageView
 在Android上结合七牛提供的API，让加载图片更有效、更节流、更简单、更可控、更酷
 
 <img src = "https://raw.githubusercontent.com/lingochamp/QiniuImageLoader/master/art/demo_1.jpg" width = "320"/> <img src = "https://raw.githubusercontent.com/lingochamp/QiniuImageLoader/master/art/demo_2.jpg" width = "320"/>
+
+---
+
+**CainCamera**: https://github.com/CainKernel/CainCamera
+
+CainCamera是一个集美颜相机、图片编辑、短视频编辑等功能的综合性开源APP，目前主要介绍美颜相机、短视频编辑功能的实现，图片编辑功能暂时还没时间处理。 本人编写该项目主要用于学习如何实现相机的实时美颜、动态滤镜、动态贴纸、彩妆、拍照、短视频分段录制与回删、图片编辑、短时频编辑与合成等功能。
+
+<img src="https://github.com/CainKernel/CainCamera/blob/master/screenshot/sticker_and_filter.jpg" width="480" />
 
 ---
 
@@ -1102,7 +1148,7 @@ A library to take picture easy, trasnfrom your data and save photos in your devi
 
 **android-gif-drawable**: https://github.com/koral--/android-gif-drawable
 
-Views and Drawable for displaying animated GIFs on Android
+安卓 Gif 图片加载
 
 ---
 
